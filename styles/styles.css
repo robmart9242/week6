@@ -1,0 +1,85 @@
+.swatches {
+    list-style: none;
+  padding-left: .5em;
+
+}
+.bg-black{
+   width: 1em;
+    height: 1em;
+    background: black;
+/*    -moz-border-radius: 60px;*/
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+  margin-right:.5em;
+}
+.bg-blue{
+   width: 1em;
+    height: 1em;
+    background: blue;
+/*    -moz-border-radius: 60px;*/
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+  margin-right:.5em
+}
+.bg-gray{
+   width: 1em;
+    height: 1em;
+    background: gray;
+/*    -moz-border-radius: 60px;*/
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+  margin-right:.5em
+}
+.bg-green{
+   width: 1em;
+    height: 1em;
+    background: green;
+/*    -moz-border-radius: 60px;*/
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+  margin-right:.5em
+}
+.bg-khaki{
+   width: 1em;
+    height: 1em;
+    background: khaki;
+/*    -moz-border-radius: 60px;*/
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+  margin-right:.5em
+}
+
+.bg-red{
+   width: 1em;
+    height: 1em;
+    background: red;
+/*    -moz-border-radius: 60px;*/
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.bg-black,.bg-blue, .bg-gray, .bg-green, .bg-khaki, .bg-red {
+  float: left;
+}
+p {
+  clear:both;
+}
+h4{
+  padding-left:2em;
+}
+section{
+  float:left;
+  padding: 1em 2em 1em 2em;
+ 
+}
+
+p.savings-blank {
+  white-space:pre-line;
+}
+.special {
+  color: red;
+}
+.strike-through {
+    text-decoration: line-through;
+  color:black;
+}
